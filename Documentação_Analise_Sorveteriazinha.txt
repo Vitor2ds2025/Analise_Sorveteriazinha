@@ -1,0 +1,50 @@
+ANÁLISE E PROJETO DE SISTEMAS: SISTEMA DE SORVETERIA ONLINE
+ 
+Introdução
+
+Uma sorveteria deseja expandir suas vendas para o ambiente online, permitindo que os clientes façam pedidos de sorvetes pelo site e escolham entre retirar no local ou entregar. Atualmente, os pedidos são feitos apenas presencialmente, o que limita a quantidade de clientes atendidos e gera filas no estabelecimento.
+
+
+Descrição do Problema
+
+A sorveteria precisa de um sistema web responsivo que permita aos clientes:
+
+Visualizar o catálogo de sorvetes com imagens, preços e descrições.
+Montar seu pedido escolhendo sabores, tamanhos e adicionais.
+Escolher retirada na loja ou entrega (com cálculo da taxa de entrega).
+Fazer pagamentos online via cartão de crédito ou pix.
+Criar uma conta para salvar os pedidos anteriores e  facilitar novas compras.
+
+Os administradores  da sorveteria também precisam de funcionalidades como:
+
+Gerenciamento do catálogo de produtos (cadastrar, editar e excluir sorvetes)
+Controle do pedido em tempo real, podendo atualizar status para “Em preparo”, “Pronto para retirada”, ou “A caminho”.
+Relatório de vendas e estatísticas de produtos mais vendidos.
+
+
+    3.  Impacto do Problema 
+
+Se um sistema online, a sorveteria enfrenta desafios como:
+
+Filas e demora no atendimento presencial.
+Falta de controle automatizado sobre os pedidos.
+Dificuldade em analisar vendas e preferências dos clientes.
+Perda de oportunidade de vendas para concorrentes que já possuem um sistema online. 
+
+   4. Requisitos Funcionais 
+
+Cadastro e login de clientes.
+Catálogo de produtos dinâmicos com imagens e descrições.
+Carrinho de compras com opções personalização de sorvetes.
+Pagamento online via cartão de crédito ou pix.
+Escolha de retirada e entregamos cálculos de taxa.
+Notificações de status do pedido.
+Painel administrativo para gerenciar pedidos e produtos.
+
+  5. Requisitos Não Funcionais
+
+Interface responsiva para desktop e mobile.
+Banco de dados seguro para armazenar informações de clientes e pedidos. 
+Tempo de resposta rápido para navegação fluida.
+Integração com APIs de pagamento e mapas para cálculo de entrega.
+
