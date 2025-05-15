@@ -6,13 +6,13 @@
 }
 
 body{
-    background-color: #f9f9f9;
+    background-color: #dbcdba;
     color: #333;
     line-height: 1.6;
 }
 
 header{
-    background: linear-gradient(135deg, #366149, #47f88b9f);
+    background: linear-gradient(135deg, #94b2ca, #c181e6);
     color: rgb(82, 68, 68);
     padding: 1rem 0;
     text-align: center;
@@ -21,9 +21,15 @@ header{
 
 nav{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     padding: 0 2rem;
-    background-color: #fff;
+    background-color: #dbcdba;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+nav ul{
+display: flex;
+list-style: none;
+
 }
